@@ -1,2 +1,2 @@
 # Alexander_Vivanco
-Mi Perfil
+Developer, Con conocimientos de HTML, CSS, JavaScript, Php, Java, Mysql, Bootsrap y REACT
